@@ -1,0 +1,23 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1671630844033" />
+    <option name="shownCourseIds">
+      <set />
+    </option>
+    <option name="myShouldUseJavaFx" value="true" />
+  </component>
+</application>
