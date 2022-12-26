@@ -1,4 +1,4 @@
-package io.github.vrdst.todoapp.todoapp;
+package io.github.vrdst.todoapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

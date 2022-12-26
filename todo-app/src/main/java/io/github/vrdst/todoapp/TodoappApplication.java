@@ -1,4 +1,4 @@
-package io.github.vrdst.todoapp.todoapp;
+package io.github.vrdst.todoapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
